@@ -1,7 +1,0 @@
-C:\Users\GAIFo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
-C:\Users\GAIFo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
-C:\Users\GAIFo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
-C:\Users\GAIFo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
-C:\Users\GAIFo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
-C:\Users\GAIFo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
-C:\Users\GAIFo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
