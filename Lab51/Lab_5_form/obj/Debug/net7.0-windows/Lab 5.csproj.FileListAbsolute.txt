@@ -1,0 +1,16 @@
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\bin\Debug\net7.0-windows\Lab 5.exe
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\bin\Debug\net7.0-windows\Lab 5.deps.json
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\bin\Debug\net7.0-windows\Lab 5.runtimeconfig.json
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\bin\Debug\net7.0-windows\Lab 5.dll
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\bin\Debug\net7.0-windows\Lab 5.pdb
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab_5_form.Graphics.resources
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab 5.csproj.GenerateResource.cache
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab 5.AssemblyInfoInputs.cache
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab 5.AssemblyInfo.cs
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab 5.dll
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\refint\Lab 5.dll
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab 5.pdb
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\Lab 5.genruntimeconfig.cache
+C:\Users\GAIFo\OneDrive\Рабочий стол\Lab51\Lab_5_form\obj\Debug\net7.0-windows\ref\Lab 5.dll
