@@ -1,0 +1,8 @@
+D:\sell oop\lab_2\lab_2\bin\Debug\lab_2.exe.config
+D:\sell oop\lab_2\lab_2\bin\Debug\lab_2.exe
+D:\sell oop\lab_2\lab_2\bin\Debug\lab_2.pdb
+D:\sell oop\lab_2\lab_2\obj\Debug\lab_2.csproj.AssemblyReference.cache
+D:\sell oop\lab_2\lab_2\obj\Debug\lab_2.csproj.SuggestedBindingRedirects.cache
+D:\sell oop\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+D:\sell oop\lab_2\lab_2\obj\Debug\lab_2.exe
+D:\sell oop\lab_2\lab_2\obj\Debug\lab_2.pdb

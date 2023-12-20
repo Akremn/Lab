@@ -1,0 +1,15 @@
+D:\sell oop\lab_2\exersise_2\bin\Debug\exersise_2.exe.config
+D:\sell oop\lab_2\exersise_2\bin\Debug\exersise_2.exe
+D:\sell oop\lab_2\exersise_2\bin\Debug\exersise_2.pdb
+D:\sell oop\lab_2\exersise_2\obj\Debug\exersise_2.csproj.AssemblyReference.cache
+D:\sell oop\lab_2\exersise_2\obj\Debug\exersise_2.csproj.SuggestedBindingRedirects.cache
+D:\sell oop\lab_2\exersise_2\obj\Debug\exersise_2.csproj.CoreCompileInputs.cache
+D:\sell oop\lab_2\exersise_2\obj\Debug\exersise_2.exe
+D:\sell oop\lab_2\exersise_2\obj\Debug\exersise_2.pdb
+C:\Users\GAIFo\OneDrive\Рабочий стол\lab_2\exersise_2\bin\Debug\exersise_2.exe.config
+C:\Users\GAIFo\OneDrive\Рабочий стол\lab_2\exersise_2\bin\Debug\exersise_2.exe
+C:\Users\GAIFo\OneDrive\Рабочий стол\lab_2\exersise_2\bin\Debug\exersise_2.pdb
+C:\Users\GAIFo\OneDrive\Рабочий стол\lab_2\exersise_2\obj\Debug\exersise_2.csproj.AssemblyReference.cache
+C:\Users\GAIFo\OneDrive\Рабочий стол\lab_2\exersise_2\obj\Debug\exersise_2.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\OneDrive\Рабочий стол\lab_2\exersise_2\obj\Debug\exersise_2.exe
+C:\Users\GAIFo\OneDrive\Рабочий стол\lab_2\exersise_2\obj\Debug\exersise_2.pdb
